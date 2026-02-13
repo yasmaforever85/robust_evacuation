@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Hurricane Impact Scenario Generator"
+version: 2.0.0
+date-released: 2026-02-13
+license: MIT
+repository-code: "https://github.com/yasmaforever85/scenario_generation"
+authors:
+  - family-names: "Fernández-Fernández"
+    given-names: "Yasmany"
+    orcid: "https://orcid.org/0000-0002-9530-4028"
+    affiliation: "Universidad Politécnica Estatal del Carchi (UPEC), Ecuador"
+  - family-names: "Allende Alonso"
+    given-names: "Sira María"
+    orcid: "https://orcid.org/0000-0002-6803-5010"
+    affiliation: "Universidad de La Habana, Cuba"
+  - family-names: "Miranda Pérez"
+    given-names: "Ridelio"
+    orcid: "https://orcid.org/0000-0001-5344-9950"
+    affiliation: "Universidad de Cienfuegos, Cuba"
+  - family-names: "Bouza Allende"
+    given-names: "Gemayqzel"
+    orcid: "https://orcid.org/0000-0003-4457-9360"
+    affiliation: "Universidad de La Habana, Cuba"
+  - family-names: "Cabrera Álvarez"
+    given-names: "Elia Natividad"
+    orcid: "https://orcid.org/0000-0001-7661-5894"
+    affiliation: "Universidad de Cienfuegos, Cuba"
+keywords:
+  - hurricane
+  - scenario generation
+  - Gaussian Mixture Model
+  - geographic amplification
+  - Bayesian updating
+  - spatial decision support
+  - Cuba
+  - Caribbean
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Fernández-Fernández"
+      given-names: "Yasmany"
+    - family-names: "Allende Alonso"
+      given-names: "Sira María"
+    - family-names: "Miranda Pérez"
+      given-names: "Ridelio"
+    - family-names: "Bouza Allende"
+      given-names: "Gemayqzel"
+    - family-names: "Cabrera Álvarez"
+      given-names: "Elia Natividad"
+  title: "Geospatial Scenario Generation for Hurricane Impact Assessment: A Gaussian Mixture Framework with Temporal Bayesian Updating in a Geographically Amplified Feature Space"
+  journal: "International Journal of Geographical Information Science"
+  year: 2026
