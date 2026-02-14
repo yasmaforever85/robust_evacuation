@@ -138,7 +138,7 @@ If you use this software in your research, please cite:
   title   = {Geospatial Scenario Generation for Hurricane Impact Assessment:
              A {G}aussian Mixture Framework with Temporal {B}ayesian Updating
              in a Geographically Amplified Feature Space},
-  journal = {International Journal of Geographical Information Science},
+  journal = {...},
   year    = {2026},
   note    = {Under review}
 }
