@@ -150,18 +150,6 @@ for s in scenarios.scenarios:
 If you use this software in your research, please cite:
 
 ```bibtex
-@article{FernandezFernandez2026scenario,
-  author  = {Fern{\'a}ndez-Fern{\'a}ndez, Yasmany and Allende Alonso, Sira Mar{\'i}a
-             and Miranda P{\'e}rez, Ridelio and Bouza Allende, Gemayqzel
-             and Cabrera {\'A}lvarez, Elia Natividad},
-  title   = {Geospatial Scenario Generation for Hurricane Impact Assessment:
-             A {G}aussian Mixture Framework with Temporal {B}ayesian Updating
-             in a Geographically Amplified Feature Space},
-  journal = {International Journal of Geographical Information Science},
-  year    = {2026},
-  note    = {Under review}
-}
-
 @article{FernandezFernandez2026stochastic,
   author  = {Fern{\'a}ndez-Fern{\'a}ndez, Yasmany and Allende Alonso, Sira Mar{\'i}a
              and Miranda P{\'e}rez, Ridelio and Bouza Allende, Gemayqzel
