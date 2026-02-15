@@ -156,7 +156,7 @@ If you use this software in your research, please cite:
              and Cabrera {\'A}lvarez, Elia Natividad},
   title   = {Data-driven scenario generation and two-stage stochastic programming
              for multicommodity evacuation under hurricane uncertainty},
-  journal = {Modern Stochastics: Theory and Applications},
+  journal = {...},
   year    = {2026},
   note    = {Under review}
 }
