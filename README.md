@@ -16,10 +16,7 @@ This repository contains two complementary components for hurricane emergency ma
 
 ## Associated Papers
 
-> **Paper 1 (Scenario Generation):**
-> Fernández-Fernández, Y., Allende Alonso, S.M., Miranda Pérez, R., Bouza Allende, G. & Cabrera Álvarez, E.N. (2026). Geospatial Scenario Generation for Hurricane Impact Assessment: A Gaussian Mixture Framework with Temporal Bayesian Updating in a Geographically Amplified Feature Space. *International Journal of Geographical Information Science* (under review).
-
-> **Paper 2 (Stochastic Evacuation):**
+> **Paper 1 (Stochastic Evacuation):**
 > Fernández-Fernández, Y., Allende Alonso, S.M., Miranda Pérez, R., Bouza Allende, G. & Cabrera Álvarez, E.N. (2026). Data-driven scenario generation and two-stage stochastic programming for multicommodity evacuation under hurricane uncertainty. *Modern Stochastics: Theory and Applications* (under review).
 
 ## Repository Structure
