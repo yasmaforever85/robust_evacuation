@@ -26,7 +26,7 @@ robust_evacuation/
 ├── GeneradorEscenariosHuracan.py   # Core scenario engine (Papers 1 & 2)
 ├── PI_Plan_Flujo.py                # Deterministic flow MIP PI^D (Paper 2)
 ├── PI_Estoc_Esc.py                 # Two-stage stochastic MIP PI^S (Paper 2)
-├── validacion_integrada_MIP.py     # 100-experiment validation with real solver (Paper 2)
+├── validacion_integrada.py     # 100-experiment validation with real solver (Paper 2)
 ├── ModuloGeneradorEscenarios.py    # PyQt6 graphical interface (Paper 1)
 ├── hurricane_db_cuba.json          # Historical hurricane database (21 storms)
 ├── data/
