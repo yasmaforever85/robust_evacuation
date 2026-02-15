@@ -154,8 +154,7 @@ If you use this software in your research, please cite:
   author  = {Fern{\'a}ndez-Fern{\'a}ndez, Yasmany and Allende Alonso, Sira Mar{\'i}a
              and Miranda P{\'e}rez, Ridelio and Bouza Allende, Gemayqzel
              and Cabrera {\'A}lvarez, Elia Natividad},
-  title   = {Data-driven scenario generation and two-stage stochastic programming
-             for multicommodity evacuation under hurricane uncertainty},
+  title   = {Uncertainty Quantification in Hurricane Evacuation via Data-Driven Scenario Generation and Two-Stage Stochastic Programming},
   journal = {...},
   year    = {2026},
   note    = {Under review}
