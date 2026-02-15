@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.XXXXXXX-blue)](https://doi.org/10.6084/m9.figshare.XXXXXXX)
+[![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.31337560-blue)](https://doi.org/10.6084/m9.figshare.31337560)
 
 ## Overview
 
